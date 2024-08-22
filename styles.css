@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: url('img2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #61dafb;
+    font-family: 'Arial', sans-serif;
+}
+
+.clock {
+    font-size: 5rem;
+    background: rgba(32, 35, 42, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
